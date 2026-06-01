@@ -18,20 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ARCHIVO PALATNIK RAMIREZ
+title: ESTO
 
 description: >
-  Observación documental sobre institucionalidad,
-  registros y judicialización familiar.
+  ¿Por qué existe esto?
 email: robinpalat@gmail.com
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://archivopalatnik.pages.dev" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ESTO" # the subpath of your site, e.g. /blog
+url: "https://robinpalat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
 # Build settings
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
