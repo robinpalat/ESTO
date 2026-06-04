@@ -8,6 +8,8 @@ layout: default
 
 # Introducción
 
+<br>
+
 
 La niebla todavía permanece entre los árboles. Entre raíces, piedras y musgo, un delgado curso de agua desciende por la ladera de la montaña. No avanza en línea recta. La montaña le presenta dificultades a cada paso. Piedras que interrumpen su descenso, raíces que la dispersan, pequeños desniveles que alteran su curso. El curso rodea obstáculos, desaparece bajo una roca y reaparece más adelante. Frente a una pendiente aprovecha el impulso y continúa. Encuentra caminos donde antes parecía no haber ninguno. Su recorrido parece improvisado y, al mismo tiempo, inevitable.
 
