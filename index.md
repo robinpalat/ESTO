@@ -18,14 +18,6 @@ El agua no sabe dónde va.
 
 Pero parece saber.
 
-Quizá la observación resulte trivial. Sin embargo, encierra una peculiaridad difícil de ignorar. Frente a una trayectoria persistente, solemos atribuir algún tipo de conocimiento. Allí donde algo encuentra caminos, evita obstáculos o alcanza ciertos resultados de manera reiterada, aparece casi espontáneamente la impresión de que existe una voluntad guiando el proceso.
-
-Y entonces surgen preguntas acerca del curso del agua, tales como:
-
-¿Dónde va el agua? 
-
-Este libro se pregunta
-
- ¿Por qué tiene que ir?
+Frente a una trayectoria persistente, solemos atribuir algún tipo de conocimiento. Allí donde algo encuentra caminos, evita obstáculos o alcanza ciertos resultados de manera reiterada, aparece casi espontáneamente la impresión de que existe una voluntad guiando el proceso.
 
 
